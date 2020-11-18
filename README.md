@@ -25,4 +25,4 @@ link dibawah ini contoh file yang dibuat <br>
 </html>   
 ```
 
-![youtube](foto/youtube)
+![youtube](foto/youtube.png)
